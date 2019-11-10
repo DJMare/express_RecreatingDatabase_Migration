@@ -102,6 +102,7 @@ VS CODE
 
 (22) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application: ![open app js file (express_Sequelize_RecreatingDatabase_Migration)](https://user-images.githubusercontent.com/35668707/68538923-24ea0080-034a-11ea-8d78-5c813cbe4bba.JPG)
 
+![require models in app js file (express_Sequelize_RecreatingDatabase_Migration)](https://user-images.githubusercontent.com/35668707/68538937-582c8f80-034a-11ea-93bf-030ade754768.JPG)
 
 (23) Add models.sequelize.sync to app.js file: 
 
