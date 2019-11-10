@@ -23,7 +23,7 @@ COMMAND PROMPT
 
     express --view=hbs express_RecreatingDatabase_Migration
 
-(6) Once the process is complete, navigate into the express_Sequelize_ directory: 
+(6) Once the process is complete, navigate into the express_Sequelize_RecreatingDatabase_Migration directory: 
 
     cd express_Sequelize_
 
