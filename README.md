@@ -19,7 +19,7 @@ COMMAND PROMPT
 
     npm install express-generator -g
 
-(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_: 
+(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_RecreatingDatabase_Migration: 
 
     express --view=hbs express_RecreatingDatabase_Migration
 
