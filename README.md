@@ -56,7 +56,7 @@ VS CODE
 
 (13) Navigate to the routes/index.js file: ![open index js file (express_Sequelize_RecreatingDatabase_Migration)](https://user-images.githubusercontent.com/35668707/68538862-10593880-0349-11ea-9d62-2585c802ce9e.JPG)
 
-(14) Require mysql2 in routes/index.js file: 
+(14) Require mysql2 in routes/index.js file: ![require mysql2 in index js file (express_Sequelize_RecreatingDatabase_Migration)](https://user-images.githubusercontent.com/35668707/68538886-6ded8500-0349-11ea-9e2a-d8576e04328c.JPG)
 
 
 COMMAND PROMPT
