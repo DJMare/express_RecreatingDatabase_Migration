@@ -74,6 +74,7 @@ VS CODE
 
 (17) Open config/config.json file and change settings to connect to the database: ![open config js file (express_Sequelize_RecreatingDatabase_Migration)](https://user-images.githubusercontent.com/35668707/68538907-ad1bd600-0349-11ea-8874-ef37656232bd.JPG)
 
+![update database info in config js file (express_Sequelize_RecreatingDatabase_Migration)](https://user-images.githubusercontent.com/35668707/68538910-d472a300-0349-11ea-94bd-4f251432f141.JPG)
 
 COMMAND PROMPT
 
