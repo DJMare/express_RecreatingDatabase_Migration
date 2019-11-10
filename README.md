@@ -104,7 +104,8 @@ VS CODE
 
 ![require models in app js file (express_Sequelize_RecreatingDatabase_Migration)](https://user-images.githubusercontent.com/35668707/68538937-582c8f80-034a-11ea-93bf-030ade754768.JPG)
 
-(23) Add models.sequelize.sync to app.js file: 
+(23) Add models.sequelize.sync to app.js file: ![add sequelize sync to app js file (express_Sequelize_RecreatingDatabase_Migration)](https://user-images.githubusercontent.com/35668707/68538947-7c886c00-034a-11ea-824f-3041b6425bf1.JPG)
+
 
 COMMAND PROMPT
 
