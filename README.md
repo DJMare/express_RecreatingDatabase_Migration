@@ -21,7 +21,7 @@ COMMAND PROMPT
 
 (5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_: 
 
-    express --view=hbs express_Sequelize_
+    express --view=hbs express_RecreatingDatabase_Migration
 
 (6) Once the process is complete, navigate into the express_Sequelize_ directory: 
 
