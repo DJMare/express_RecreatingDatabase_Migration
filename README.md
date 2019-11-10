@@ -25,7 +25,7 @@ COMMAND PROMPT
 
 (6) Once the process is complete, navigate into the express_RecreatingDatabase_Migration directory: 
 
-    cd express_
+    cd express_RecreatingDatabase_Migration
 
 (7) Now in the express_ directory, run the following: 
 
