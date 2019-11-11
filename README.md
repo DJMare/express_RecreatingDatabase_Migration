@@ -1,4 +1,4 @@
-# express_RecreatingDatabase_Migration
+# express_Sequelize_RecreatingDatabase_Migration
 An express app utilizing sequelize cli to connect to mySql workbench and recreating a database migration. 
 
 COMMAND PROMPT
@@ -89,7 +89,7 @@ COMMAND PROMPT
     
 MYSQL WORKBENCH
 
-(20) Open database in mySql workbench to view columns in table: 
+(20) Open database in mySql workbench to view columns in table.
 
 COMMAND PROMPT
 
