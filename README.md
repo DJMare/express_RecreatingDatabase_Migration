@@ -1,4 +1,4 @@
-# Express_Sequelize_RecreatingDatabase_Migration
+# Sequelize_RecreatingDatabase_Migration
 An express app utilizing sequelize cli to connect to mySQL workbench and recreating a database migration. 
 
 COMMAND PROMPT
